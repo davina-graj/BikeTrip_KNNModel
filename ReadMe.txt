@@ -1,6 +1,4 @@
 Dataset: BlueBikes Usage in Boston, MA
 
-Potential areas of research:
-- correlation between the length of a trip and the type of bike used (for single-day trips)
-- correlation between the length of a trip and the starting station
-- machine learning model for how long a trip will take between two stations at a starting time
+KNN (k-nearest neighbor) model to predict the duration of a trip based on various factors.
+View
